@@ -1,0 +1,13 @@
+name: brj-course
+dependencies:
+  - python=3.9
+  - pytest
+  - pylint
+  - bokeh
+  - seaborn
+  - pandas
+  - numpy
+  - ipykernel
+  - ipywidgets
+  - spacy>=3.3
+  - scikit-learn
